@@ -1,0 +1,17 @@
+﻿  Time.cpp
+C:\Users\ljmen\DOC\_GitHub\Code\C++ codes\Time\Time\Time.cpp(14,51): warning C4244: '=': conversão de '_Rep' para 'double', possível perda de dados
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\ljmen\DOC\_GitHub\Code\C++ codes\Time\Time\Time.cpp(35,50): warning C4244: '=': conversão de '_Rep' para 'double', possível perda de dados
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\ljmen\DOC\_GitHub\Code\C++ codes\Time\Time\Time.cpp(45,53): warning C4244: '=': conversão de '_Rep' para 'double', possível perda de dados
+          with
+          [
+              _Rep=__int64
+          ]
+  Time.vcxproj -> C:\Users\ljmen\DOC\_GitHub\Code\C++ codes\Time\x64\Debug\Time.exe
